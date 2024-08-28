@@ -6,10 +6,11 @@ import HooksContador from './components/HooksContador'
 const App = () => {
   return (
     <div>
+      <HooksContador/>
       <RenderizandoComFuncoes/>
       
       <TrabalhandoComImagens />
-      <HooksContador/>
+      
     </div>
   )
 }
