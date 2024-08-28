@@ -1,6 +1,7 @@
 import React from 'react'
 import RenderizandoComFuncoes from './components/RenderizandoComFuncoes'
 import TrabalhandoComImagens from './components/TrabalhandoComImagens'
+import HooksContador from './components/HooksContador'
 
 const App = () => {
   return (
@@ -8,6 +9,7 @@ const App = () => {
       <RenderizandoComFuncoes/>
       
       <TrabalhandoComImagens />
+      <HooksContador/>
     </div>
   )
 }
