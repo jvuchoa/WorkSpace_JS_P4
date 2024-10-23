@@ -1,0 +1,19 @@
+{
+    "noticias":[
+        {
+            "id": 1,
+            "titulo": "Amanha não havera aula",
+            "texto": "bbla bla bla bla "
+        },
+        {
+            "id": 2,
+            "titulo": "Prova de carol cancelada",
+            "texto": "bbla bla bla bla "
+        },
+        {
+            "id": 3,
+            "titulo": "Sexta feira havera aula do professor Fujioka",
+            "texto": "bbla bla bla bla "
+        }
+    ]
+}
